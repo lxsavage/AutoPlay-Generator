@@ -26,5 +26,5 @@ The GUI interface is much easier to use and to understand than manually editing/
 [![Step 3](https://s22.postimg.cc/q5vh97yzl/disp4.png)](https://postimg.cc/image/lwqr71vq5/)
 3. Choose the root directory of your external drive, and click Select
 
-[![Step 4](https://s22.postimg.cc/6zia6fnr5/disp3.png)](https://postimg.cc/image/mxqzwkhz1/)
+[![Step 4](https://s22.postimg.cc/uf07bkhq9/disp3.png)](https://postimg.cc/image/8ftsod0vx/)
 4. Remount your drive (disconnect and reconnect), and the changes should show up. Note these changes only show up on Windows. Linux and MacOS do not support AutoRun files.

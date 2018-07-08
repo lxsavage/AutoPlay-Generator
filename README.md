@@ -7,6 +7,9 @@ Install on Windows Desktop (x86) [here](https://github.com/r2d2292/AutoPlay-Gene
 Requires:
 - .NET Framework v4.6.1
 
+
+###### Notice: Despite what SafeScreen says in Windows 10, this program is safe, and doesn't contain anything other than what is advertised.
+
 ### What Is It?
 
 AutoPlay Generator is a program designed in .NET that creates a simple `autorun.inf` file to style an external disk/disc.

@@ -25,8 +25,6 @@ The GUI interface is much easier to use and to understand than manually editing/
 
 [![Step 2](https://s22.postimg.cc/lipf7sbq9/disp2.png)](https://postimg.cc/image/4i6iz3yot/)
 2. Click save
-
-[![Step 3](https://s22.postimg.cc/q5vh97yzl/disp4.png)](https://postimg.cc/image/lwqr71vq5/)
 3. Choose the root directory of your external drive, and click Select
 
 [![Step 4](https://s22.postimg.cc/uf07bkhq9/disp3.png)](https://postimg.cc/image/8ftsod0vx/)

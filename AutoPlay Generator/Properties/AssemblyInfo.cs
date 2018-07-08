@@ -1,4 +1,4 @@
-﻿using System.Reflection;
+using System.Reflection;
 using System.Runtime.InteropServices;
 
 // General Information about an assembly is controlled through the following
@@ -9,7 +9,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("retail")]
 [assembly: AssemblyCompany("r2d2292")]
 [assembly: AssemblyProduct("AutoPlay Generator")]
-[assembly: AssemblyCopyright("Copyright © 2018 Logan Savage. Some Rights Reserved. See \"license.txt\" for more info.")]
+[assembly: AssemblyCopyright("Copyright © 2018 Logan Savage. Some Rights Reserved. See \"LICENSE\" for more info.")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

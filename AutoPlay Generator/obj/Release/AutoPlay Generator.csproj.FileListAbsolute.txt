@@ -1,0 +1,11 @@
+F:\Programming\C#\dotNET\AutoPlay Generator\AutoPlay Generator\bin\Release\AutoPlay Generator.exe.config
+F:\Programming\C#\dotNET\AutoPlay Generator\AutoPlay Generator\bin\Release\AutoPlay Generator.exe
+F:\Programming\C#\dotNET\AutoPlay Generator\AutoPlay Generator\bin\Release\AutoPlay Generator.pdb
+F:\Programming\C#\dotNET\AutoPlay Generator\AutoPlay Generator\obj\Release\AutoPlay_Generator.Properties.Resources.resources
+F:\Programming\C#\dotNET\AutoPlay Generator\AutoPlay Generator\obj\Release\AutoPlay_Generator.SaveSuccessPrompt.resources
+F:\Programming\C#\dotNET\AutoPlay Generator\AutoPlay Generator\obj\Release\AutoPlay Generator.csproj.GenerateResource.cache
+F:\Programming\C#\dotNET\AutoPlay Generator\AutoPlay Generator\obj\Release\AutoPlay Generator.csproj.CoreCompileInputs.cache
+F:\Programming\C#\dotNET\AutoPlay Generator\AutoPlay Generator\obj\Release\AutoPlay Generator.exe
+F:\Programming\C#\dotNET\AutoPlay Generator\AutoPlay Generator\obj\Release\AutoPlay Generator.pdb
+F:\Programming\C#\dotNET\AutoPlay Generator\AutoPlay Generator\obj\Release\AutoPlay_Generator.NoticeWindow.resources
+F:\Programming\C#\dotNET\AutoPlay Generator\AutoPlay Generator\obj\Release\AutoPlay_Generator.MainWindow.resources

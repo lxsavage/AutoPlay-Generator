@@ -2,7 +2,7 @@
 
 ### Install
 
-Install on Windows Desktop (x86) [here](https://github.com/r2d2292/AutoPlay-Generator/blob/master/AutoPlay%20Generator/bin/Release/AutoPlay%20Generator.exe?raw=true).
+Install [here](https://github.com/r2d2292/AutoPlay-Generator/releases/tag/0.1.0).
 
 Requires:
 - .NET Framework v4.6.1

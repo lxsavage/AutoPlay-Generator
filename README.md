@@ -8,7 +8,7 @@ Requires:
 - .NET Framework v4.6.1
 
 
-###### Notice: Despite what SafeScreen says in Windows 10, this program is safe, and doesn't contain anything other than what is advertised.
+###### Notice: Despite what SafeScreen says in Windows 10, this program is safe, and doesn't contain anything other than what is advertised. The only reason for this warning is because this app is not currently signed.
 
 ### What Is It?
 
